@@ -32,6 +32,7 @@ img {
 	height: 250px;
 	width:  250px;
 	border:  2px solid blueviolet;
+	margin-top: 2rem;
 }
 
 
@@ -123,6 +124,6 @@ html {
 }
 
 .description {
-	margin-top: 2rem;
+	margin-top: 3rem;
 }
 
